@@ -1,0 +1,64 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IDEs
+*.iml
+*.ipr
+*.iws
+.idea/
+.classpath
+.project
+.settings/
+.vscode/
+
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.cxx/
+
+# Generated code
+*.freezed.dart
+*.g.dart
+*.gr.dart
+*.config.dart
+
+# Allow FlutterGen generated files
+!lib/generated/*.gen.dart
+
+# Ignore all generated folders
+lib/generated/
+
+# Environment
+*.env
+.env
+.env.*
+
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# OS-specific
+**/ios/Flutter/.last_build_id
+linux/flutter/generated_*
+macos/Flutter/GeneratedPluginRegistrant.swift
+windows/flutter/generated_*
+
+# Android Studio build
+android/app/debug/
+android/app/profile/
+android/app/release/

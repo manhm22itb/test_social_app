@@ -1,0 +1,77 @@
+[33m7bfd861[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/connect-api[m[33m)[m HEAD@{0}: pull origin feature/connect-api --rebase (finish): returning to refs/heads/feature/connect-api
+[33m7bfd861[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/connect-api[m[33m)[m HEAD@{1}: pull origin feature/connect-api --rebase (pick): WIP: lưu thay đổi trước khi pull
+[33m71e1748[m HEAD@{2}: pull origin feature/connect-api --rebase (pick): connect api
+[33mc9a0025[m[33m ([m[1;31morigin/feature/connect-api[m[33m)[m HEAD@{3}: pull origin feature/connect-api --rebase (start): checkout c9a002531718327e836c5829021e9b8348dea5ed
+[33m63b5f9b[m HEAD@{4}: commit: WIP: lưu thay đổi trước khi pull
+[33mbaa4bd1[m HEAD@{5}: commit: connect api
+[33m31c44b1[m[33m ([m[1;32mmain[m[33m)[m HEAD@{6}: checkout: moving from main to feature/connect-api
+[33m31c44b1[m[33m ([m[1;32mmain[m[33m)[m HEAD@{7}: pull origin main: Merge made by the 'ort' strategy.
+[33m1746ef9[m HEAD@{8}: commit: Fix router + update colors
+[33m99a73d4[m HEAD@{9}: checkout: moving from fix/navigate-route to main
+[33m756445c[m[33m ([m[1;31morigin/fix/navigate-route[m[33m, [m[1;32mfix/navigate-route[m[33m)[m HEAD@{10}: commit: fix navigate route
+[33m99a73d4[m HEAD@{11}: checkout: moving from main to fix/navigate-route
+[33m99a73d4[m HEAD@{12}: pull origin main: Fast-forward
+[33mf0b5388[m HEAD@{13}: pull origin main: Fast-forward
+[33ma95b1c5[m HEAD@{14}: pull origin main: Fast-forward
+[33m238ec1f[m[33m ([m[1;32mfeature/logic-post[m[33m)[m HEAD@{15}: checkout: moving from feature/get_token to main
+[33md04eb5c[m[33m ([m[1;31morigin/feature/get_token[m[33m, [m[1;32mfeature/get_token[m[33m)[m HEAD@{16}: commit: add get access token and refresh token
+[33m238ec1f[m[33m ([m[1;32mfeature/logic-post[m[33m)[m HEAD@{17}: checkout: moving from main to feature/get_token
+[33m238ec1f[m[33m ([m[1;32mfeature/logic-post[m[33m)[m HEAD@{18}: checkout: moving from fix/UI-post to main
+[33m9260b68[m[33m ([m[1;31morigin/fix/UI-post[m[33m, [m[1;32mfix/UI-post[m[33m)[m HEAD@{19}: commit: gen again auth datasource
+[33me731694[m HEAD@{20}: commit: add visibility private in create post
+[33m238ec1f[m[33m ([m[1;32mfeature/logic-post[m[33m)[m HEAD@{21}: checkout: moving from feature/logic-post to fix/UI-post
+[33m238ec1f[m[33m ([m[1;32mfeature/logic-post[m[33m)[m HEAD@{22}: checkout: moving from main to feature/logic-post
+[33m238ec1f[m[33m ([m[1;32mfeature/logic-post[m[33m)[m HEAD@{23}: pull origin main: Merge made by the 'ort' strategy.
+[33m48b9e5c[m HEAD@{24}: pull origin main: Merge made by the 'ort' strategy.
+[33m397ee59[m HEAD@{25}: commit: chore: stop tracking .dart_tool folder
+[33ma3a4286[m HEAD@{26}: checkout: moving from feature/logout to main
+[33m1de872c[m[33m ([m[1;31morigin/feature/logout[m[33m, [m[1;32mfeature/logout[m[33m)[m HEAD@{27}: checkout: moving from main to feature/logout
+[33ma3a4286[m HEAD@{28}: checkout: moving from feature/logout to main
+[33m1de872c[m[33m ([m[1;31morigin/feature/logout[m[33m, [m[1;32mfeature/logout[m[33m)[m HEAD@{29}: commit: add logout, fix logic signup
+[33ma3a4286[m HEAD@{30}: checkout: moving from main to feature/logout
+[33ma3a4286[m HEAD@{31}: pull origin main: Fast-forward
+[33maa38e2b[m HEAD@{32}: reset: moving to HEAD
+[33maa38e2b[m HEAD@{33}: reset: moving to HEAD
+[33maa38e2b[m HEAD@{34}: pull origin main: Fast-forward
+[33m00e3472[m HEAD@{35}: checkout: moving from feature/logic--profile to main
+[33me4bdc28[m[33m ([m[1;31morigin/feature/logic--profile[m[33m, [m[1;32mfeature/logic--profile[m[33m)[m HEAD@{36}: commit: add logic profile( get username, email)
+[33m00e3472[m HEAD@{37}: checkout: moving from main to feature/logic--profile
+[33m00e3472[m HEAD@{38}: pull origin main: Fast-forward
+[33mbc3407a[m HEAD@{39}: checkout: moving from main to main
+[33mbc3407a[m HEAD@{40}: commit: fix router app
+[33m4431e17[m HEAD@{41}: pull origin main: Fast-forward
+[33m5202b96[m[33m ([m[1;32mfeature/logic-auth[m[33m)[m HEAD@{42}: reset: moving to feature/logic-auth
+[33md97854c[m HEAD@{43}: checkout: moving from feature/logic-auth to main
+[33m5202b96[m[33m ([m[1;32mfeature/logic-auth[m[33m)[m HEAD@{44}: commit: fix: generated files and config updates
+[33m462db48[m HEAD@{45}: checkout: moving from main to feature/logic-auth
+[33md97854c[m HEAD@{46}: reset: moving to HEAD
+[33md97854c[m HEAD@{47}: checkout: moving from feature/logic-auth to main
+[33m462db48[m HEAD@{48}: pull origin main: Fast-forward
+[33m1a6c162[m[33m ([m[1;31morigin/feature/logic-auth[m[33m)[m HEAD@{49}: reset: moving to HEAD
+[33m1a6c162[m[33m ([m[1;31morigin/feature/logic-auth[m[33m)[m HEAD@{50}: checkout: moving from main to feature/logic-auth
+[33md97854c[m HEAD@{51}: reset: moving to HEAD
+[33md97854c[m HEAD@{52}: checkout: moving from feature/logic-auth to main
+[33m1a6c162[m[33m ([m[1;31morigin/feature/logic-auth[m[33m)[m HEAD@{53}: commit: fix: update home page and package config
+[33m74174bb[m HEAD@{54}: commit (merge): fix: resolve all merge conflicts
+[33m2a4af47[m HEAD@{55}: commit: chore: current changes before merging fix
+[33m0bb98b5[m HEAD@{56}: checkout: moving from fix/UI-S-M to feature/logic-auth
+[33m2882258[m[33m ([m[1;31morigin/fix/UI-S-M[m[33m, [m[1;32mfix/UI-S-M[m[33m)[m HEAD@{57}: commit: fix import from gen Color
+[33md97854c[m HEAD@{58}: checkout: moving from main to fix/UI-S-M
+[33md97854c[m HEAD@{59}: pull origin main: Fast-forward
+[33mdbb0e5c[m HEAD@{60}: checkout: moving from feature/create-UI-auth to main
+[33m961669c[m[33m ([m[1;31morigin/feature/create-UI-auth[m[33m, [m[1;32mfeature/create-UI-auth[m[33m)[m HEAD@{61}: reset: moving to HEAD
+[33m961669c[m[33m ([m[1;31morigin/feature/create-UI-auth[m[33m, [m[1;32mfeature/create-UI-auth[m[33m)[m HEAD@{62}: checkout: moving from main to feature/create-UI-auth
+[33mdbb0e5c[m HEAD@{63}: checkout: moving from feature/logic-auth to main
+[33m0bb98b5[m HEAD@{64}: commit: all logic auth consist of signup, signin, signout, signin with GG, forgot and reset password
+[33m961669c[m[33m ([m[1;31morigin/feature/create-UI-auth[m[33m, [m[1;32mfeature/create-UI-auth[m[33m)[m HEAD@{65}: checkout: moving from feature/create-UI-auth to feature/logic-auth
+[33m961669c[m[33m ([m[1;31morigin/feature/create-UI-auth[m[33m, [m[1;32mfeature/create-UI-auth[m[33m)[m HEAD@{66}: commit: create UI login and signup
+[33m6f5c5bf[m[33m ([m[1;31morigin/gitinit[m[33m, [m[1;32mgitinit[m[33m)[m HEAD@{67}: checkout: moving from 3378a86e06f3a29c78f7c7edf58f466574464b28 to feature/create-UI-auth
+[33m3378a86[m HEAD@{68}: checkout: moving from feature/create-UI-auth to 3378a86
+[33m6f5c5bf[m[33m ([m[1;31morigin/gitinit[m[33m, [m[1;32mgitinit[m[33m)[m HEAD@{69}: reset: moving to HEAD
+[33m6f5c5bf[m[33m ([m[1;31morigin/gitinit[m[33m, [m[1;32mgitinit[m[33m)[m HEAD@{70}: reset: moving to 6f5c5bf370910625c41582e64880044f11e67f2c
+[33m3378a86[m HEAD@{71}: commit: create UI login and signup
+[33m6f5c5bf[m[33m ([m[1;31morigin/gitinit[m[33m, [m[1;32mgitinit[m[33m)[m HEAD@{72}: checkout: moving from gitinit to feature/create-UI-auth
+[33m6f5c5bf[m[33m ([m[1;31morigin/gitinit[m[33m, [m[1;32mgitinit[m[33m)[m HEAD@{73}: commit: first commit
+[33mdbb0e5c[m HEAD@{74}: checkout: moving from main to gitinit
+[33mdbb0e5c[m HEAD@{75}: Branch: renamed refs/heads/master to refs/heads/main
+[33mdbb0e5c[m HEAD@{77}: initial pull
